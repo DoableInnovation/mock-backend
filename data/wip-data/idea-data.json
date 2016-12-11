@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "title": "Blandit inceptos nisi amet egestas condimentum.",
+    "desc": "Lorem ipsum laoreet senectus feugiat fringilla nam eros per dapibus senectus quis facilisis. Ac montes volutpat sociosqu nam odio sodales amet vivamus nostra at scelerisque. Taciti habitant ligula ridiculus vehicula rutrum integer ipsum vulputate vulputate mollis? Placerat nam morbi consectetur suscipit ridiculus nascetur torquent! Facilisi purus augue maecenas magnis rhoncus nulla accumsan quis?",
+    "group_image": "http://placehold.it/380x703",
+    "created_by": 10,
+    "comment_users": [{
+        "id": 7,
+        "username": "kayhouston5355",
+        "avatar": "https://randomuser.me/api/portraits/women/57.jpg",
+        "id": 2,
+        "username": "kayhouston5355",
+        "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+        "comments": [
+            "Lorem ipsum netus sagittis massa nisl amet cursus ligula nullam porttitor sagittis.Litora massa aptent pharetra justo, tempor sodales mus velit inceptos adipiscing praesent.Maecenas libero massa gravida class lacus nisi aptent lorem ullamcorper.Penatibus posuere senectus integer fusce eros cum eget.Netus et orci nisi rhoncus nibh molestie.",
+            "Lorem ipsum diam faucibus fusce sociosqu sociosqu interdum habitasse nec consectetur egestas taciti metus.Facilisis molestie in commodo vulputate aptent volutpat enim adipiscing at neque ut!Nostra porttitor nisi curabitur vitae fusce egestas montes tempor viverra.Auctor, ullamcorper tristique facilisi nisi netus habitant sem non.Quam feugiat libero nam dis cursus consectetur praesent dignissim.n",
+            "Lorem ipsum tempus accumsan hac inceptos interdum etiam penatibus nunc potenti conubia eleifend phasellus!Enim sodales sed cum mollis sit curae; malesuada.Posuere curabitur mauris morbi nullam tortor congue nullam.Ante hendrerit montes facilisis elementum potenti purus etiam eget elementum. Platea dictumst ligula dictumst sem ridiculus porttitor nam vivamus?",
+            "Lorem ipsum proin lorem phasellus amet fringilla justo justo condimentum ante, parturient auctor suspendisse.Convallis tempor quam felis tempor viverra quam tempus posuere.Maecenas porttitor gravida velit bibendum elementum pellentesque class dignissim venenatis volutpat. Eleifend faucibus felis magnis mollis tempor nascetur dictum lorem mi ornare.Vel lectus dolor sociosqu mauris quis velit consequat."
+        ]
+    }]
+}
