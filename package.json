@@ -1,5 +1,5 @@
 {
-  "name": "node-backend",
+  "name": "mock-backend",
   "version": "0.0.1",
   "description": "Simple nodejs server that serves static json files",
   "main": "server.js",
@@ -15,5 +15,13 @@
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "lodash": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoableInnovation/mock-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DoableInnovation/mock-backend/issues"
+  },
+  "homepage": "https://github.com/DoableInnovation/mock-backend#readme"
 }

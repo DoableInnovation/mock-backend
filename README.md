@@ -1,6 +1,6 @@
 # Mock Backend
 
-A small, simple [nodejs](http://nodejs.org) that is meant to help speed up frontend workflow by mimicking the doable v2 backend.
+A small, simple [node.js](http://nodejs.org) server that is meant to help speed up frontend workflow and testing by mimicking the doable v2 backend.
 
 I've started to build a collection of static json files. So far:
 - ideas
@@ -14,7 +14,7 @@ And some fun shit:
 
 ## Setup and Usage
 
-1. Make sure [NodeJS (with npm)](http://nodejs.org) is installed.
+1. Make sure [node](http://nodejs.org) is installed.
 2. Clone or download this repository to a directory of your choice.
 3. Run either `yarn install` or `npm install` (whatever floats you boat.
 4. Then run either `yarn start` or `npm start` which will launch the node server on [http://localhost:8000](http://localhost:8000).
